@@ -1,0 +1,7 @@
+C:\Users\shrut\source\repos\Centralogic_Task\CRUD_Operation\bin\Debug\CRUD_Operation.exe.config
+C:\Users\shrut\source\repos\Centralogic_Task\CRUD_Operation\bin\Debug\CRUD_Operation.exe
+C:\Users\shrut\source\repos\Centralogic_Task\CRUD_Operation\bin\Debug\CRUD_Operation.pdb
+C:\Users\shrut\source\repos\Centralogic_Task\CRUD_Operation\obj\Debug\CRUD_Operation.csproj.AssemblyReference.cache
+C:\Users\shrut\source\repos\Centralogic_Task\CRUD_Operation\obj\Debug\CRUD_Operation.csproj.CoreCompileInputs.cache
+C:\Users\shrut\source\repos\Centralogic_Task\CRUD_Operation\obj\Debug\CRUD_Operation.exe
+C:\Users\shrut\source\repos\Centralogic_Task\CRUD_Operation\obj\Debug\CRUD_Operation.pdb
