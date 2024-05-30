@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\shrut\\source\\repos\\Centralogic_Task\\LibraryManagementSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{729C9EF3-1D09-4C4C-8F0B-61286810B21C}|LibraryManagementSystem.csproj|c:\\users\\shrut\\source\\repos\\centralogic_task\\librarymanagementsystem\\controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{729C9EF3-1D09-4C4C-8F0B-61286810B21C}|LibraryManagementSystem.csproj|solutionrelative:controllers\\bookcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{729C9EF3-1D09-4C4C-8F0B-61286810B21C}|LibraryManagementSystem.csproj|c:\\users\\shrut\\source\\repos\\centralogic_task\\librarymanagementsystem\\dto\\issuedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{729C9EF3-1D09-4C4C-8F0B-61286810B21C}|LibraryManagementSystem.csproj|solutionrelative:dto\\issuedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{729C9EF3-1D09-4C4C-8F0B-61286810B21C}|LibraryManagementSystem.csproj|c:\\users\\shrut\\source\\repos\\centralogic_task\\librarymanagementsystem\\entity\\memberentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{729C9EF3-1D09-4C4C-8F0B-61286810B21C}|LibraryManagementSystem.csproj|solutionrelative:entity\\memberentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{729C9EF3-1D09-4C4C-8F0B-61286810B21C}|LibraryManagementSystem.csproj|c:\\users\\shrut\\source\\repos\\centralogic_task\\librarymanagementsystem\\entity\\issueentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{729C9EF3-1D09-4C4C-8F0B-61286810B21C}|LibraryManagementSystem.csproj|solutionrelative:entity\\issueentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{729C9EF3-1D09-4C4C-8F0B-61286810B21C}|LibraryManagementSystem.csproj|c:\\users\\shrut\\source\\repos\\centralogic_task\\librarymanagementsystem\\entity\\bookentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{729C9EF3-1D09-4C4C-8F0B-61286810B21C}|LibraryManagementSystem.csproj|solutionrelative:entity\\bookentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{729C9EF3-1D09-4C4C-8F0B-61286810B21C}|LibraryManagementSystem.csproj|c:\\users\\shrut\\source\\repos\\centralogic_task\\librarymanagementsystem\\dto\\memberdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{729C9EF3-1D09-4C4C-8F0B-61286810B21C}|LibraryManagementSystem.csproj|solutionrelative:dto\\memberdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{729C9EF3-1D09-4C4C-8F0B-61286810B21C}|LibraryManagementSystem.csproj|c:\\users\\shrut\\source\\repos\\centralogic_task\\librarymanagementsystem\\dto\\bookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{729C9EF3-1D09-4C4C-8F0B-61286810B21C}|LibraryManagementSystem.csproj|solutionrelative:dto\\bookdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{729C9EF3-1D09-4C4C-8F0B-61286810B21C}|LibraryManagementSystem.csproj|c:\\users\\shrut\\source\\repos\\centralogic_task\\librarymanagementsystem\\controllers\\membercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{729C9EF3-1D09-4C4C-8F0B-61286810B21C}|LibraryManagementSystem.csproj|solutionrelative:controllers\\membercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{729C9EF3-1D09-4C4C-8F0B-61286810B21C}|LibraryManagementSystem.csproj|c:\\users\\shrut\\source\\repos\\centralogic_task\\librarymanagementsystem\\controllers\\issuecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{729C9EF3-1D09-4C4C-8F0B-61286810B21C}|LibraryManagementSystem.csproj|solutionrelative:controllers\\issuecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BookDto.cs",
+              "DocumentMoniker": "C:\\Users\\shrut\\source\\repos\\Centralogic_Task\\LibraryManagementSystem\\DTO\\BookDto.cs",
+              "RelativeDocumentMoniker": "DTO\\BookDto.cs",
+              "ToolTip": "C:\\Users\\shrut\\source\\repos\\Centralogic_Task\\LibraryManagementSystem\\DTO\\BookDto.cs",
+              "RelativeToolTip": "DTO\\BookDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-30T03:54:28.968Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MemberEntity.cs",
+              "DocumentMoniker": "C:\\Users\\shrut\\source\\repos\\Centralogic_Task\\LibraryManagementSystem\\Entity\\MemberEntity.cs",
+              "RelativeDocumentMoniker": "Entity\\MemberEntity.cs",
+              "ToolTip": "C:\\Users\\shrut\\source\\repos\\Centralogic_Task\\LibraryManagementSystem\\Entity\\MemberEntity.cs",
+              "RelativeToolTip": "Entity\\MemberEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T17:48:30.518Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BookController.cs",
+              "DocumentMoniker": "C:\\Users\\shrut\\source\\repos\\Centralogic_Task\\LibraryManagementSystem\\Controllers\\BookController.cs",
+              "RelativeDocumentMoniker": "Controllers\\BookController.cs",
+              "ToolTip": "C:\\Users\\shrut\\source\\repos\\Centralogic_Task\\LibraryManagementSystem\\Controllers\\BookController.cs",
+              "RelativeToolTip": "Controllers\\BookController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAANcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T17:48:23.33Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MemberDto.cs",
+              "DocumentMoniker": "C:\\Users\\shrut\\source\\repos\\Centralogic_Task\\LibraryManagementSystem\\DTO\\MemberDto.cs",
+              "RelativeDocumentMoniker": "DTO\\MemberDto.cs",
+              "ToolTip": "C:\\Users\\shrut\\source\\repos\\Centralogic_Task\\LibraryManagementSystem\\DTO\\MemberDto.cs",
+              "RelativeToolTip": "DTO\\MemberDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T17:48:21.353Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MemberController.cs",
+              "DocumentMoniker": "C:\\Users\\shrut\\source\\repos\\Centralogic_Task\\LibraryManagementSystem\\Controllers\\MemberController.cs",
+              "RelativeDocumentMoniker": "Controllers\\MemberController.cs",
+              "ToolTip": "C:\\Users\\shrut\\source\\repos\\Centralogic_Task\\LibraryManagementSystem\\Controllers\\MemberController.cs",
+              "RelativeToolTip": "Controllers\\MemberController.cs",
+              "ViewState": "AQIAAIAAAAAAAAAAAAAswFAAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T17:32:49.692Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BookEntity.cs",
+              "DocumentMoniker": "C:\\Users\\shrut\\source\\repos\\Centralogic_Task\\LibraryManagementSystem\\Entity\\BookEntity.cs",
+              "RelativeDocumentMoniker": "Entity\\BookEntity.cs",
+              "ToolTip": "C:\\Users\\shrut\\source\\repos\\Centralogic_Task\\LibraryManagementSystem\\Entity\\BookEntity.cs",
+              "RelativeToolTip": "Entity\\BookEntity.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T16:33:49.54Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IssueEntity.cs",
+              "DocumentMoniker": "C:\\Users\\shrut\\source\\repos\\Centralogic_Task\\LibraryManagementSystem\\Entity\\IssueEntity.cs",
+              "RelativeDocumentMoniker": "Entity\\IssueEntity.cs",
+              "ToolTip": "C:\\Users\\shrut\\source\\repos\\Centralogic_Task\\LibraryManagementSystem\\Entity\\IssueEntity.cs",
+              "RelativeToolTip": "Entity\\IssueEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T16:23:50.586Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IssueDto.cs",
+              "DocumentMoniker": "C:\\Users\\shrut\\source\\repos\\Centralogic_Task\\LibraryManagementSystem\\DTO\\IssueDto.cs",
+              "RelativeDocumentMoniker": "DTO\\IssueDto.cs",
+              "ToolTip": "C:\\Users\\shrut\\source\\repos\\Centralogic_Task\\LibraryManagementSystem\\DTO\\IssueDto.cs",
+              "RelativeToolTip": "DTO\\IssueDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T09:11:59.527Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IssueController.cs",
+              "DocumentMoniker": "C:\\Users\\shrut\\source\\repos\\Centralogic_Task\\LibraryManagementSystem\\Controllers\\IssueController.cs",
+              "RelativeDocumentMoniker": "Controllers\\IssueController.cs",
+              "ToolTip": "C:\\Users\\shrut\\source\\repos\\Centralogic_Task\\LibraryManagementSystem\\Controllers\\IssueController.cs",
+              "RelativeToolTip": "Controllers\\IssueController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAF0AAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-29T09:07:43.484Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
