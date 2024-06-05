@@ -1,0 +1,390 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\shrut\\source\\repos\\Centralogic_Task\\E-Commerce\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{51D61470-4EC9-44C0-ADE0-2130EBAB5AB6}|E-Commerce.csproj|c:\\users\\shrut\\source\\repos\\centralogic_task\\e-commerce\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51D61470-4EC9-44C0-ADE0-2130EBAB5AB6}|E-Commerce.csproj|solutionrelative:controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51D61470-4EC9-44C0-ADE0-2130EBAB5AB6}|E-Commerce.csproj|c:\\users\\shrut\\source\\repos\\centralogic_task\\e-commerce\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51D61470-4EC9-44C0-ADE0-2130EBAB5AB6}|E-Commerce.csproj|solutionrelative:controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51D61470-4EC9-44C0-ADE0-2130EBAB5AB6}|E-Commerce.csproj|c:\\users\\shrut\\source\\repos\\centralogic_task\\e-commerce\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51D61470-4EC9-44C0-ADE0-2130EBAB5AB6}|E-Commerce.csproj|solutionrelative:controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51D61470-4EC9-44C0-ADE0-2130EBAB5AB6}|E-Commerce.csproj|c:\\users\\shrut\\source\\repos\\centralogic_task\\e-commerce\\cosmosdb\\cosmosdbservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51D61470-4EC9-44C0-ADE0-2130EBAB5AB6}|E-Commerce.csproj|solutionrelative:cosmosdb\\cosmosdbservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51D61470-4EC9-44C0-ADE0-2130EBAB5AB6}|E-Commerce.csproj|c:\\users\\shrut\\source\\repos\\centralogic_task\\e-commerce\\cosmosdb\\icosmosdbservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51D61470-4EC9-44C0-ADE0-2130EBAB5AB6}|E-Commerce.csproj|solutionrelative:cosmosdb\\icosmosdbservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51D61470-4EC9-44C0-ADE0-2130EBAB5AB6}|E-Commerce.csproj|c:\\users\\shrut\\source\\repos\\centralogic_task\\e-commerce\\dto\\customerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51D61470-4EC9-44C0-ADE0-2130EBAB5AB6}|E-Commerce.csproj|solutionrelative:dto\\customerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51D61470-4EC9-44C0-ADE0-2130EBAB5AB6}|E-Commerce.csproj|c:\\users\\shrut\\source\\repos\\centralogic_task\\e-commerce\\dto\\orderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51D61470-4EC9-44C0-ADE0-2130EBAB5AB6}|E-Commerce.csproj|solutionrelative:dto\\orderdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51D61470-4EC9-44C0-ADE0-2130EBAB5AB6}|E-Commerce.csproj|c:\\users\\shrut\\source\\repos\\centralogic_task\\e-commerce\\dto\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51D61470-4EC9-44C0-ADE0-2130EBAB5AB6}|E-Commerce.csproj|solutionrelative:dto\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51D61470-4EC9-44C0-ADE0-2130EBAB5AB6}|E-Commerce.csproj|c:\\users\\shrut\\source\\repos\\centralogic_task\\e-commerce\\dto\\productlistdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51D61470-4EC9-44C0-ADE0-2130EBAB5AB6}|E-Commerce.csproj|solutionrelative:dto\\productlistdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51D61470-4EC9-44C0-ADE0-2130EBAB5AB6}|E-Commerce.csproj|c:\\users\\shrut\\source\\repos\\centralogic_task\\e-commerce\\entity\\customerentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51D61470-4EC9-44C0-ADE0-2130EBAB5AB6}|E-Commerce.csproj|solutionrelative:entity\\customerentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51D61470-4EC9-44C0-ADE0-2130EBAB5AB6}|E-Commerce.csproj|c:\\users\\shrut\\source\\repos\\centralogic_task\\e-commerce\\entity\\orderentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51D61470-4EC9-44C0-ADE0-2130EBAB5AB6}|E-Commerce.csproj|solutionrelative:entity\\orderentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51D61470-4EC9-44C0-ADE0-2130EBAB5AB6}|E-Commerce.csproj|c:\\users\\shrut\\source\\repos\\centralogic_task\\e-commerce\\entity\\productentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51D61470-4EC9-44C0-ADE0-2130EBAB5AB6}|E-Commerce.csproj|solutionrelative:entity\\productentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51D61470-4EC9-44C0-ADE0-2130EBAB5AB6}|E-Commerce.csproj|c:\\users\\shrut\\source\\repos\\centralogic_task\\e-commerce\\interface\\icustomerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51D61470-4EC9-44C0-ADE0-2130EBAB5AB6}|E-Commerce.csproj|solutionrelative:interface\\icustomerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51D61470-4EC9-44C0-ADE0-2130EBAB5AB6}|E-Commerce.csproj|c:\\users\\shrut\\source\\repos\\centralogic_task\\e-commerce\\interface\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51D61470-4EC9-44C0-ADE0-2130EBAB5AB6}|E-Commerce.csproj|solutionrelative:interface\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51D61470-4EC9-44C0-ADE0-2130EBAB5AB6}|E-Commerce.csproj|c:\\users\\shrut\\source\\repos\\centralogic_task\\e-commerce\\interface\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51D61470-4EC9-44C0-ADE0-2130EBAB5AB6}|E-Commerce.csproj|solutionrelative:interface\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51D61470-4EC9-44C0-ADE0-2130EBAB5AB6}|E-Commerce.csproj|c:\\users\\shrut\\source\\repos\\centralogic_task\\e-commerce\\services\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51D61470-4EC9-44C0-ADE0-2130EBAB5AB6}|E-Commerce.csproj|solutionrelative:services\\customerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51D61470-4EC9-44C0-ADE0-2130EBAB5AB6}|E-Commerce.csproj|c:\\users\\shrut\\source\\repos\\centralogic_task\\e-commerce\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51D61470-4EC9-44C0-ADE0-2130EBAB5AB6}|E-Commerce.csproj|solutionrelative:services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51D61470-4EC9-44C0-ADE0-2130EBAB5AB6}|E-Commerce.csproj|c:\\users\\shrut\\source\\repos\\centralogic_task\\e-commerce\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51D61470-4EC9-44C0-ADE0-2130EBAB5AB6}|E-Commerce.csproj|solutionrelative:services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51D61470-4EC9-44C0-ADE0-2130EBAB5AB6}|E-Commerce.csproj|c:\\users\\shrut\\source\\repos\\centralogic_task\\e-commerce\\common\\credentials.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51D61470-4EC9-44C0-ADE0-2130EBAB5AB6}|E-Commerce.csproj|solutionrelative:common\\credentials.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51D61470-4EC9-44C0-ADE0-2130EBAB5AB6}|E-Commerce.csproj|c:\\users\\shrut\\source\\repos\\centralogic_task\\e-commerce\\common\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51D61470-4EC9-44C0-ADE0-2130EBAB5AB6}|E-Commerce.csproj|solutionrelative:common\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51D61470-4EC9-44C0-ADE0-2130EBAB5AB6}|E-Commerce.csproj|c:\\users\\shrut\\source\\repos\\centralogic_task\\e-commerce\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{51D61470-4EC9-44C0-ADE0-2130EBAB5AB6}|E-Commerce.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{51D61470-4EC9-44C0-ADE0-2130EBAB5AB6}|E-Commerce.csproj|c:\\users\\shrut\\source\\repos\\centralogic_task\\e-commerce\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{51D61470-4EC9-44C0-ADE0-2130EBAB5AB6}|E-Commerce.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "OrderDTO.cs",
+              "DocumentMoniker": "C:\\Users\\shrut\\source\\repos\\Centralogic_Task\\E-Commerce\\DTO\\OrderDTO.cs",
+              "RelativeDocumentMoniker": "DTO\\OrderDTO.cs",
+              "ToolTip": "C:\\Users\\shrut\\source\\repos\\Centralogic_Task\\E-Commerce\\DTO\\OrderDTO.cs",
+              "RelativeToolTip": "DTO\\OrderDTO.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAswBkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T06:29:59.648Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CustomerDTO.cs",
+              "DocumentMoniker": "C:\\Users\\shrut\\source\\repos\\Centralogic_Task\\E-Commerce\\DTO\\CustomerDTO.cs",
+              "RelativeDocumentMoniker": "DTO\\CustomerDTO.cs",
+              "ToolTip": "C:\\Users\\shrut\\source\\repos\\Centralogic_Task\\E-Commerce\\DTO\\CustomerDTO.cs",
+              "RelativeToolTip": "DTO\\CustomerDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T20:31:38.007Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ICosmosDBService.cs",
+              "DocumentMoniker": "C:\\Users\\shrut\\source\\repos\\Centralogic_Task\\E-Commerce\\CosmosDB\\ICosmosDBService.cs",
+              "RelativeDocumentMoniker": "CosmosDB\\ICosmosDBService.cs",
+              "ToolTip": "C:\\Users\\shrut\\source\\repos\\Centralogic_Task\\E-Commerce\\CosmosDB\\ICosmosDBService.cs",
+              "RelativeToolTip": "CosmosDB\\ICosmosDBService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T17:06:12.098Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CosmosDBService.cs",
+              "DocumentMoniker": "C:\\Users\\shrut\\source\\repos\\Centralogic_Task\\E-Commerce\\CosmosDB\\CosmosDBService.cs",
+              "RelativeDocumentMoniker": "CosmosDB\\CosmosDBService.cs",
+              "ToolTip": "C:\\Users\\shrut\\source\\repos\\Centralogic_Task\\E-Commerce\\CosmosDB\\CosmosDBService.cs",
+              "RelativeToolTip": "CosmosDB\\CosmosDBService.cs",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAIwFQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T15:30:55.217Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\shrut\\source\\repos\\Centralogic_Task\\E-Commerce\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\shrut\\source\\repos\\Centralogic_Task\\E-Commerce\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Controllers\\ProductController.cs",
+              "ViewState": "AQIAAEAAAAAAAAAAAAAAAD0AAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T20:35:10.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "C:\\Users\\shrut\\source\\repos\\Centralogic_Task\\E-Commerce\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "Controllers\\OrderController.cs",
+              "ToolTip": "C:\\Users\\shrut\\source\\repos\\Centralogic_Task\\E-Commerce\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "Controllers\\OrderController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T18:10:07.775Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CustomerController.cs",
+              "DocumentMoniker": "C:\\Users\\shrut\\source\\repos\\Centralogic_Task\\E-Commerce\\Controllers\\CustomerController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CustomerController.cs",
+              "ToolTip": "C:\\Users\\shrut\\source\\repos\\Centralogic_Task\\E-Commerce\\Controllers\\CustomerController.cs",
+              "RelativeToolTip": "Controllers\\CustomerController.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwB8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T20:30:57.786Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProductDTO.cs",
+              "DocumentMoniker": "C:\\Users\\shrut\\source\\repos\\Centralogic_Task\\E-Commerce\\DTO\\ProductDTO.cs",
+              "RelativeDocumentMoniker": "DTO\\ProductDTO.cs",
+              "ToolTip": "C:\\Users\\shrut\\source\\repos\\Centralogic_Task\\E-Commerce\\DTO\\ProductDTO.cs",
+              "RelativeToolTip": "DTO\\ProductDTO.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAkwA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T07:24:45.886Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProductListDTO.cs",
+              "DocumentMoniker": "C:\\Users\\shrut\\source\\repos\\Centralogic_Task\\E-Commerce\\DTO\\ProductListDTO.cs",
+              "RelativeDocumentMoniker": "DTO\\ProductListDTO.cs",
+              "ToolTip": "C:\\Users\\shrut\\source\\repos\\Centralogic_Task\\E-Commerce\\DTO\\ProductListDTO.cs",
+              "RelativeToolTip": "DTO\\ProductListDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T15:58:09.416Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CustomerEntity.cs",
+              "DocumentMoniker": "C:\\Users\\shrut\\source\\repos\\Centralogic_Task\\E-Commerce\\Entity\\CustomerEntity.cs",
+              "RelativeDocumentMoniker": "Entity\\CustomerEntity.cs",
+              "ToolTip": "C:\\Users\\shrut\\source\\repos\\Centralogic_Task\\E-Commerce\\Entity\\CustomerEntity.cs",
+              "RelativeToolTip": "Entity\\CustomerEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T20:31:49.401Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "OrderEntity.cs",
+              "DocumentMoniker": "C:\\Users\\shrut\\source\\repos\\Centralogic_Task\\E-Commerce\\Entity\\OrderEntity.cs",
+              "RelativeDocumentMoniker": "Entity\\OrderEntity.cs",
+              "ToolTip": "C:\\Users\\shrut\\source\\repos\\Centralogic_Task\\E-Commerce\\Entity\\OrderEntity.cs",
+              "RelativeToolTip": "Entity\\OrderEntity.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABEAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T06:30:19.014Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ProductEntity.cs",
+              "DocumentMoniker": "C:\\Users\\shrut\\source\\repos\\Centralogic_Task\\E-Commerce\\Entity\\ProductEntity.cs",
+              "RelativeDocumentMoniker": "Entity\\ProductEntity.cs",
+              "ToolTip": "C:\\Users\\shrut\\source\\repos\\Centralogic_Task\\E-Commerce\\Entity\\ProductEntity.cs",
+              "RelativeToolTip": "Entity\\ProductEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-05T06:42:32.651Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ICustomerService.cs",
+              "DocumentMoniker": "C:\\Users\\shrut\\source\\repos\\Centralogic_Task\\E-Commerce\\Interface\\ICustomerService.cs",
+              "RelativeDocumentMoniker": "Interface\\ICustomerService.cs",
+              "ToolTip": "C:\\Users\\shrut\\source\\repos\\Centralogic_Task\\E-Commerce\\Interface\\ICustomerService.cs",
+              "RelativeToolTip": "Interface\\ICustomerService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T20:32:19.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IOrderService.cs",
+              "DocumentMoniker": "C:\\Users\\shrut\\source\\repos\\Centralogic_Task\\E-Commerce\\Interface\\IOrderService.cs",
+              "RelativeDocumentMoniker": "Interface\\IOrderService.cs",
+              "ToolTip": "C:\\Users\\shrut\\source\\repos\\Centralogic_Task\\E-Commerce\\Interface\\IOrderService.cs",
+              "RelativeToolTip": "Interface\\IOrderService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T15:33:41.7Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "C:\\Users\\shrut\\source\\repos\\Centralogic_Task\\E-Commerce\\Interface\\IProductService.cs",
+              "RelativeDocumentMoniker": "Interface\\IProductService.cs",
+              "ToolTip": "C:\\Users\\shrut\\source\\repos\\Centralogic_Task\\E-Commerce\\Interface\\IProductService.cs",
+              "RelativeToolTip": "Interface\\IProductService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T05:43:28.71Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CustomerService.cs",
+              "DocumentMoniker": "C:\\Users\\shrut\\source\\repos\\Centralogic_Task\\E-Commerce\\Services\\CustomerService.cs",
+              "RelativeDocumentMoniker": "Services\\CustomerService.cs",
+              "ToolTip": "C:\\Users\\shrut\\source\\repos\\Centralogic_Task\\E-Commerce\\Services\\CustomerService.cs",
+              "RelativeToolTip": "Services\\CustomerService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAD4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T20:32:35.795Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "OrderService.cs",
+              "DocumentMoniker": "C:\\Users\\shrut\\source\\repos\\Centralogic_Task\\E-Commerce\\Services\\OrderService.cs",
+              "RelativeDocumentMoniker": "Services\\OrderService.cs",
+              "ToolTip": "C:\\Users\\shrut\\source\\repos\\Centralogic_Task\\E-Commerce\\Services\\OrderService.cs",
+              "RelativeToolTip": "Services\\OrderService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACgAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-02T15:35:30.528Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\shrut\\source\\repos\\Centralogic_Task\\E-Commerce\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "Services\\ProductService.cs",
+              "ToolTip": "C:\\Users\\shrut\\source\\repos\\Centralogic_Task\\E-Commerce\\Services\\ProductService.cs",
+              "RelativeToolTip": "Services\\ProductService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAKsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T20:53:13.054Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Credentials.cs",
+              "DocumentMoniker": "C:\\Users\\shrut\\source\\repos\\Centralogic_Task\\E-Commerce\\Common\\Credentials.cs",
+              "RelativeDocumentMoniker": "Common\\Credentials.cs",
+              "ToolTip": "C:\\Users\\shrut\\source\\repos\\Centralogic_Task\\E-Commerce\\Common\\Credentials.cs",
+              "RelativeToolTip": "Common\\Credentials.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAwwAoAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T20:47:56.494Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\shrut\\source\\repos\\Centralogic_Task\\E-Commerce\\Common\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "Common\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\shrut\\source\\repos\\Centralogic_Task\\E-Commerce\\Common\\BaseEntity.cs",
+              "RelativeToolTip": "Common\\BaseEntity.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAA0wDAAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T21:03:28.926Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\shrut\\source\\repos\\Centralogic_Task\\E-Commerce\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\shrut\\source\\repos\\Centralogic_Task\\E-Commerce\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAwwCMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-01T21:01:27.288Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\shrut\\source\\repos\\Centralogic_Task\\E-Commerce\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\shrut\\source\\repos\\Centralogic_Task\\E-Commerce\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-02T09:31:23.412Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
